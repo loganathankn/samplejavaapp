@@ -6,6 +6,7 @@ import java.util.Date;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 /* Added for test the commit to webhook the Jenkins URL */
+/* Added another line for check the webhook push to jenkins*/
 
 public class CaseInsensitiveComparator extends GenericComparator {
 
